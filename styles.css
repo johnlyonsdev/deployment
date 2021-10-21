@@ -1,0 +1,23 @@
+header {
+    background: goldenrod;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkblue;
+    font-size: 120px;
+    text-align: center;
+}
+
+.img1 {
+    position: fixed;
+    width:180px;
+    height:120px;
+    right: 10%;
+    top: 20px;
+}
+
+.img2 {
+    position: fixed;
+    width:180px;
+    height:120px;
+    left: 10%;
+    top: 20px;
+}
