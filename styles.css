@@ -21,3 +21,56 @@ header {
     left: 10%;
     top: 20px;
 } 
+
+body {
+    background: dodgerblue;
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 64px;
+    position: fixed;
+    top: 100px
+}
+
+.store {
+    position: fixed;
+    width: 40%;
+    height: 400px;
+    right: 40px;
+    top:200px;
+}
+
+div {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background:goldenrod;
+    left: 0px;
+    
+    
+}
+
+h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 64px;
+    text-align: center;
+    margin: 20px;
+}
+div.hover {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background:lightgreen;
+    left: 0px;
+    height:300px;
+    cursor: pointer
+}
+
+h2.hover {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 128px;
+    text-align: center;
+    margin: 20px;
+    color: red;
+}
